@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "author":"CMGT",
   "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build --outDir=docs --base=./"
-  },
+"scripts": {
+  "dev": "vite",
+  "build": "vite build --outDir=docs --base=/PRG04_eindopdracht/"
+},
   "devDependencies": {
     "vite": "^8.0.1"
   },
